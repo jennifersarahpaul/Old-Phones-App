@@ -15,6 +15,7 @@
 		D6DA892E1C90AB3E000C419E /* ContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6DA892D1C90AB3E000C419E /* ContactViewController.swift */; };
 		D6DA89301C90B136000C419E /* ProductsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6DA892F1C90B136000C419E /* ProductsTableViewController.swift */; };
 		D6DA89321C90D32A000C419E /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6DA89311C90D32A000C419E /* Product.swift */; };
+		D6DA89381C90DD70000C419E /* CartTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6DA89371C90DD70000C419E /* CartTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		D6DA892D1C90AB3E000C419E /* ContactViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactViewController.swift; sourceTree = "<group>"; };
 		D6DA892F1C90B136000C419E /* ProductsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductsTableViewController.swift; sourceTree = "<group>"; };
 		D6DA89311C90D32A000C419E /* Product.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		D6DA89371C90DD70000C419E /* CartTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CartTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				D6DA892D1C90AB3E000C419E /* ContactViewController.swift */,
 				D6DA892F1C90B136000C419E /* ProductsTableViewController.swift */,
 				D6DA89311C90D32A000C419E /* Product.swift */,
+				D6DA89371C90DD70000C419E /* CartTableViewController.swift */,
 			);
 			path = OldPhones;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D6DA892C1C90A56C000C419E /* ProductViewController.swift in Sources */,
+				D6DA89381C90DD70000C419E /* CartTableViewController.swift in Sources */,
 				D6DA89301C90B136000C419E /* ProductsTableViewController.swift in Sources */,
 				D6DA89321C90D32A000C419E /* Product.swift in Sources */,
 				D6DA891A1C909E79000C419E /* AppDelegate.swift in Sources */,
