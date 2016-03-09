@@ -13,6 +13,7 @@
 		D6DA89241C909E79000C419E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6DA89221C909E79000C419E /* LaunchScreen.storyboard */; };
 		D6DA892C1C90A56C000C419E /* ProductViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6DA892B1C90A56C000C419E /* ProductViewController.swift */; };
 		D6DA892E1C90AB3E000C419E /* ContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6DA892D1C90AB3E000C419E /* ContactViewController.swift */; };
+		D6DA89301C90B136000C419E /* ProductsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6DA892F1C90B136000C419E /* ProductsTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D6DA89251C909E79000C419E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D6DA892B1C90A56C000C419E /* ProductViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductViewController.swift; sourceTree = "<group>"; };
 		D6DA892D1C90AB3E000C419E /* ContactViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactViewController.swift; sourceTree = "<group>"; };
+		D6DA892F1C90B136000C419E /* ProductsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductsTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				D6DA89251C909E79000C419E /* Info.plist */,
 				D6DA892B1C90A56C000C419E /* ProductViewController.swift */,
 				D6DA892D1C90AB3E000C419E /* ContactViewController.swift */,
+				D6DA892F1C90B136000C419E /* ProductsTableViewController.swift */,
 			);
 			path = OldPhones;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D6DA892C1C90A56C000C419E /* ProductViewController.swift in Sources */,
+				D6DA89301C90B136000C419E /* ProductsTableViewController.swift in Sources */,
 				D6DA891A1C909E79000C419E /* AppDelegate.swift in Sources */,
 				D6DA892E1C90AB3E000C419E /* ContactViewController.swift in Sources */,
 			);
